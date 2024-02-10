@@ -18,6 +18,13 @@ Coding Challenge
     Right-click on the Validate.java file in the project.
     Select Run As > TestNG Test to execute the sample test class.
 
+# Test cases coverage
+1. Validate title
+2. Hover on Product and validate its showing tabs
+3. Validate color change when hovering on property management label
+4. Entrata logo hover (it should show tooltiptext)
+7. Page navigation
+   
 # Project Structure
     src/test/java: Contains sample TestNG test classes.
     pom.xml: Maven project configuration file with necessary dependencies.
